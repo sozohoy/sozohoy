@@ -11,7 +11,7 @@
 
 * * *
 ### 진행 중인 프로젝트
-- Artistep 기획 및 개발 진행 중
+- SUGO 기획 및 개
 - [Artistep / iOS - Repository](https://github.com/Artistep/IOS)
 
 <img src = "https://velog.velcdn.com/images/sozohoy/post/b03c8d8a-91c9-458a-8840-1851b9042b81/image.png" width = "23%" height = "15%">
