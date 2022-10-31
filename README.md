@@ -14,7 +14,7 @@
 - SUGO 기획 및 개발 진행중
 - [SUGO / iOS - Repository](https://github.com/Usw-SUGO/iOS)
 
-<img src = "https://velog.velcdn.com/images/sozohoy/post/b03c8d8a-91c9-458a-8840-1851b9042b81/image.png" width = "23%" height = "15%">
+<img src = "https://velog.velcdn.com/images/sozohoy/post/9d0673d1-3a75-4bc8-b0dc-103e383e7cdd/image.png" width = "23%" height = "15%">
 
 
 * * *
