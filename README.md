@@ -1,6 +1,7 @@
 ## 안녕! 저기요!👋
 
 #### 석지한 아니고 한지석의 깃허브 입니다.
+#### 기말고사 기간입니다 .. 😭
 * * *
 ### 진행한 프로젝트
 - [SUWIKI / iOS - App Store](https://apps.apple.com/kr/app/suwiki/id1615744899)
