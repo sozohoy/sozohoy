@@ -4,7 +4,8 @@
 [한지석일지](https://bow-frog-cb1.notion.site/3e3a311db3fb4f12a915d0af62392be2?pvs=18)
 * * *
 ### 프로젝트
-- [SUWIKI / iOS - App Store](https://apps.apple.com/kr/app/suwiki/id1615744899)
+- 2022.01 ~ 현재
+[SUWIKI / iOS - App Store](https://apps.apple.com/kr/app/suwiki/id1615744899)
 - [SUWIKI / iOS - Repository](https://github.com/sozohoy/SUWIKI)
 
 
