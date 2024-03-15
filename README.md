@@ -8,7 +8,7 @@
 - 2023.05 WWDC 23 Swift Student Challenge Winner
 ### 프로젝트
 - 2022.01 ~ SUWIKI, 시간표 & 강의평가 서비스<br>
-  - [SUWIKI / iOS - Repository](https://github.com/sozohoy/SUWIKI)
+  - [SUWIKI / iOS - Repository](https://github.com/uswLectureEvaluation/SUWIKI-iOS)
   - [SUWIKI / iOS - App Store](https://apps.apple.com/kr/app/suwiki/id1615744899)<br>
 - 2023.11 ~ 2024.01 Linable, 모든 축구인들의 스쿼드 메이커<br>
   - [Linable - Repository](https://github.com/DeveloperAcademy-POSTECH/MacC-Team10-Pivoters)<br>
