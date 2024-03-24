@@ -4,6 +4,7 @@
 * * *
 ### 활동
 - 2023.03 ~ 2023.12 Apple Developer Academy @ POSTECH 2기
+- 2024.03 ~ SOPT 34기 iOS YB 
 ### 수상
 - 2023.05 WWDC 23 Swift Student Challenge Winner
 ### 프로젝트
