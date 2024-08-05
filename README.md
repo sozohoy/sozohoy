@@ -8,10 +8,13 @@
 * * *
 ### 활동
 - 2023.03 ~ 2023.12 Apple Developer Academy @ POSTECH 2기
-- 2024.03 ~ SOPT 34기 iOS YB 
+- 2024.03 ~ 2024.08 SOPT 34기 iOS YB
+- 2024.08 ~ SOPT 35기 iOS 파트장
 ### 수상
 - 2023.05 WWDC 23 Swift Student Challenge Winner
 ### 프로젝트
+- 2024.07 ~ Recordy, 나만의 공간취향을 찾는 서비스
+  - [Recordy / iOS - Repository](https://github.com/Team-Recordy/Recordy-iOS)  
 - 2022.01 ~ SUWIKI, 시간표 & 강의평가 서비스<br>
   - [SUWIKI / iOS - Repository](https://github.com/uswLectureEvaluation/SUWIKI-iOS)
   - [SUWIKI / iOS - App Store](https://apps.apple.com/kr/app/suwiki/id1615744899)<br>
