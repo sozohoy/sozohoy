@@ -5,8 +5,8 @@
 * * *
 ### 활동
 - 2024.08 ~ **SOPT 35기 iOS 파트장**
-- 2023.03 ~ 2023.12 **Apple Developer Academy @ POSTECH 2기**
 - 2024.03 ~ 2024.08 **SOPT 34기 iOS YB**
+- 2023.03 ~ 2023.12 **Apple Developer Academy @ POSTECH 2기**
 ### 수상
 - 2023.05 **WWDC 23 Swift Student Challenge Winner**
   - [Plastic Rain - Repository](https://github.com/sozohoy/WWDC23-SwiftStudentChallenge)
