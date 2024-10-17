@@ -2,18 +2,16 @@
   <img src="https://render.gitanimals.org/farms/{sozohoy}"/>
 </a>
 
-**좋은 하루 되세요.**<Br>
-**- 한지석 -**
-
 * * *
 ### 활동
-- 2023.03 ~ 2023.12 Apple Developer Academy @ POSTECH 2기
-- 2024.03 ~ 2024.08 SOPT 34기 iOS YB
-- 2024.08 ~ SOPT 35기 iOS 파트장
+- 2024.08 ~ **SOPT 35기 iOS 파트장**
+- 2023.03 ~ 2023.12 **Apple Developer Academy @ POSTECH 2기**
+- 2024.03 ~ 2024.08 **SOPT 34기 iOS YB**
 ### 수상
-- 2023.05 WWDC 23 Swift Student Challenge Winner
+- 2023.05 **WWDC 23 Swift Student Challenge Winner**
+  - [Plastic Rain - Repository](https://github.com/sozohoy/WWDC23-SwiftStudentChallenge)
 ### 프로젝트
-- 2024.07 ~ Recordy, 나만의 공간취향을 찾는 서비스
+- 2024.07 ~ Viskit, 내가 찾던 공간을 먼저 만나는 곳
   - [Recordy / iOS - Repository](https://github.com/Team-Recordy/Recordy-iOS)  
 - 2022.01 ~ SUWIKI, 시간표 & 강의평가 서비스<br>
   - [SUWIKI / iOS - Repository](https://github.com/uswLectureEvaluation/SUWIKI-iOS)
@@ -23,13 +21,9 @@
   - [Linable - App Store](https://apps.apple.com/kr/app/linable/id6472717218)
 - 2023.09 수라상
   - [수라상 - Repository](https://github.com/Sulasang/iOS)
-- 2023.07 사건수첩
 - 2023.05 Mappin
   - [Mappin - Repository](https://github.com/sozohoy/Mappin)
-- 2023.05 Plastic Rain
-  - [Plastic Rain - Repository](https://github.com/sozohoy/WWDC23-SwiftStudentChallenge)
-- 2022.09 SUGO
-  - [SUGO - Repository](https://github.com/sozohoy/SUGO)
+    
 ### 저장소
 [한지석일지](https://bow-frog-cb1.notion.site/3e3a311db3fb4f12a915d0af62392be2?pvs=18)
 <br>
